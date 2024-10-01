@@ -1,0 +1,13 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "First Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
